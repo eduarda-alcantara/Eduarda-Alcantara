@@ -1,16 +1,20 @@
-### Hi there 👋
+## 👋 Oi, seja bem-vindo! 
+### Meu nome é Eduarda ...
 
-<!--
-**eduarda-alcantara/Eduarda-Alcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Sou estudante de Análise e desenvolvimento de sistemas e uma programadora em ascensão
+- 🌱 Aqui busco compartilhar um pouco do que tenho feito na minha vida acadêmica
+ 
+- 📫 Entre em contato comigo: 
+ 
+[![Linkedin][1.1]][1]
+
+[1]: http://www.linkedin.com/in/eduarda-alcântara-0018221b2
+[1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (logolinkedin)
+  
+ 
+
+  
+  ![Snake animation](https://github.com/eduarda-alcantara/eduarda-alcantara/blob/output/github-contribution-grid-snake.svg)
+
