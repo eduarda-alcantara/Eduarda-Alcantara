@@ -8,12 +8,12 @@
  
  ##
  <p align="center">
-  <img width="77" height="28" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java""> <img width="97.5" height="28" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Phyton""> <img width="79" height="28" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white "Dart"">
+  <img  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" "Java""> <img  src="https://img.icons8.com/color/48/000000/python--v1.png" "Phyton""> <img  src="https://img.icons8.com/color/48/000000/dart.png" "Dart"">
 </p>
 
 ##   
 <p align="center">
-  <img width="137.75" height="28" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white "Netbeans""> <img width="99.5" height="28" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white "Eclipse""> <img width="119.75" height="28" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green "Pycharm""> <img width="163.5" height="28" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white "AndroidStudio"">
+  <img width="137.75" height="28" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white "Netbeans""> <img width="99.5" height="28" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white "Eclipse""> <img width="119.75" height="28" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green "Pycharm""> <img width="163.5" height="28" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white "AndroidStudio"">  <img width="137.75" height="28" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white "VsCode"">
 </p>     
 
 ##
