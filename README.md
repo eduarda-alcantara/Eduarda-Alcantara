@@ -24,7 +24,7 @@
 
 ##
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduarda-alcantara&show_icons=true&theme=tokyonight"card"">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-alcantara&layout=compact" "linguagens"> 
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=eduarda-alcantara&show_icons=true&theme=tokyonight"card"">
+  <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-alcantara&layout=compact" "linguagens"> 
  </div>  
 
