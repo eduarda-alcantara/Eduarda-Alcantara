@@ -1,10 +1,10 @@
 ## 👋 Oi, seja bem-vindo! 
 ### Meu nome é Eduarda ...
 
+  Sou graduada em Análise e Desenvolvimento de Sistemas e estou em transição de carreira com objetivo de me tornar uma programadora FullStack
 
-
-  Sou estudante de Análise e desenvolvimento de sistemas e uma programadora em ascensão
 - 🌱 Aqui busco compartilhar um pouco do que tenho feito na minha vida acadêmica
+</br> No momento: aprendendo Javascript
  
  ##
  <p align="center">
